@@ -1,0 +1,29 @@
+body {
+  font: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.container button {
+  margin-top: 15px;
+}
+
+.btn-secondary {
+  display: none;
+}
+
+.body-card {
+  margin-top: 15px;
+  display: none;
+}
+
+.show-message {
+  display: block;
+}
+
+.hide-message {
+  display: none;
+}
